@@ -1,6 +1,6 @@
 ---
 title             : "Un article reproductible avec Papaja"
-shorttitle        : "Un Article reproductible"
+shorttitle        : "Un article reproductible"
 
 author: 
   - name          : "First Author"
